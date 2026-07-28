@@ -131,3 +131,13 @@ We thank the authors of the following projects for their excellent contributions
 
 Thank [@camenduru](https://github.com/camenduru) for implementing [Replicate Demo](https://replicate.com/camenduru/instantmesh) and [Colab Demo](https://colab.research.google.com/github/camenduru/InstantMesh-jupyter/blob/main/InstantMesh_jupyter.ipynb)!  
 Thank [@jtydhr88](https://github.com/jtydhr88) for implementing [ComfyUI support](https://github.com/jtydhr88/ComfyUI-InstantMesh)!
+
+---
+
+## License
+
+This project is licensed under the **Waefrebeorn Umbrella License v3.0**.
+See the [LICENSE](LICENSE) file for the full license text.
+
+The Waefrebeorn Umbrella License is a custom source-available license.
+It is not OSI-approved and not FSF-approved.
